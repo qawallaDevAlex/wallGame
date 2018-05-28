@@ -1,0 +1,26 @@
+html {
+
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-color: #cccccc;
+
+
+}
+
+canvas {
+	background-color: #eeeeee; 
+	display: block;
+	margin: 0 auto;
+
+}
+
+#myCanvas {
+
+	width: 480px;
+	height: 320px;
+
+}
+
